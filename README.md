@@ -2,6 +2,14 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=wilfrisf-sudo;Seguridad+Inform%C3%A1tica;Scapy+%2B+GNS3+%2B+Kali+Linux" alt="Typing SVG" />
 
+```
+  ███████╗ █████╗  ██████╗ ██╗   ██╗██████╗ ██╗██████╗  █████╗ ██████╗ 
+  ██╔════╝██╔══██╗██╔════╝ ██║   ██║██╔══██╗██║██╔══██╗██╔══██╗██╔══██╗
+  ███████╗███████║██║  ███╗██║   ██║██████╔╝██║██║  ██║███████║██║  ██║
+  ╚════██║██╔══██║██║   ██║██║   ██║██╔══██╗██║██║  ██║██╔══██║██║  ██║
+  ███████║██║  ██║╚██████╔╝╚██████╔╝██║  ██║██║██████╔╝██║  ██║██████╔╝
+  ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═════╝ 
+```
 
 **Seguridad Informática · ITLA · Matrícula `2024-2364`**
 
@@ -27,12 +35,12 @@ Soy **Wilfri Solano Frías**, estudiante de Seguridad Informática en el **ITLA*
 
 | # | Laboratorio | Vector | Impacto | Mitigación |
 |---|-------------|--------|---------|------------|
-| 🔴 1 | STP Root Claim | Topology Hijack | Re-convergencia forzada | BPDU Guard |
-| 🟠 2 | DHCP Spoofing | MitM | Falso Gateway | DHCP Snooping |
-| 🟡 3 | DHCP Starvation | DoS | Pool exhausto | Port Security |
-| 🟢 4 | ARP MitM | MitM / Intercepción | Envenenamiento ARP | DAI / ARP estático |
-| 🔵 5 | MAC Flooding | DoS | CAM overflow → Hub | Port Security |
-| 🟣 6 | CDP Flood | DoS CPU | Control plane congestion | `no cdp enable` |
+| 🔴 1 | [STP Root Claim](https://github.com/wilfrisf-sudo/stp-root-claim) | Topology Hijack | Re-convergencia forzada | BPDU Guard |
+| 🟠 2 | [DHCP Spoofing](https://github.com/wilfrisf-sudo/dhcp-spoofing) | MitM | Falso Gateway | DHCP Snooping |
+| 🟡 3 | [DHCP Starvation](https://github.com/wilfrisf-sudo/dhcp-starvation) | DoS | Pool exhausto | Port Security |
+| 🟢 4 | [ARP MitM](https://github.com/wilfrisf-sudo/arp-mitm) | MitM / Intercepción | Envenenamiento ARP | DAI / ARP estático |
+| 🔵 5 | [MAC Flooding](https://github.com/wilfrisf-sudo/mac-flooding) | DoS | CAM overflow → Hub | Port Security |
+| 🟣 6 | [CDP Flood](https://github.com/wilfrisf-sudo/cdp-flood) | DoS CPU | Control plane congestion | `no cdp enable` |
 
 ---
 
