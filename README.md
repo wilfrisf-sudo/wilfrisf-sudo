@@ -27,12 +27,12 @@ Soy **Wilfri Solano Frías**, estudiante de Seguridad Informática en el **ITLA*
 
 | # | Laboratorio | Vector | Impacto | Mitigación |
 |---|-------------|--------|---------|------------|
-| 🔴 1 | [STP Root Claim](https://github.com/wilfrisf-sudo/stp-root-claim) | Topology Hijack | Re-convergencia forzada | BPDU Guard |
-| 🟠 2 | [DHCP Spoofing](https://github.com/wilfrisf-sudo/dhcp-spoofing) | MitM | Falso Gateway | DHCP Snooping |
-| 🟡 3 | [DHCP Starvation](https://github.com/wilfrisf-sudo/dhcp-starvation) | DoS | Pool exhausto | Port Security |
-| 🟢 4 | [ARP MitM](https://github.com/wilfrisf-sudo/arp-mitm) | MitM / Intercepción | Envenenamiento ARP | DAI / ARP estático |
-| 🔵 5 | [MAC Flooding](https://github.com/wilfrisf-sudo/mac-flooding) | DoS | CAM overflow → Hub | Port Security |
-| 🟣 6 | [CDP Flood](https://github.com/wilfrisf-sudo/cdp-flood) | DoS CPU | Control plane congestion | `no cdp enable` |
+| 🔴 1 | [STP Root Claim](https://github.com/wilfrisf-sudo/stp-claim-root) | Topology Hijack | Re-convergencia forzada | BPDU Guard |
+| 🟠 2 | [DHCP Spoofing](https://github.com/wilfrisf-sudo/DHCP-SPOOFING) | MitM | Falso Gateway | DHCP Snooping |
+| 🟡 3 | [DHCP Starvation](https://github.com/wilfrisf-sudo/DHCP_STARVING) | DoS | Pool exhausto | Port Security |
+| 🟢 4 | [ARP MitM](https://github.com/wilfrisf-sudo/MiTM-Arp) | MitM / Intercepción | Envenenamiento ARP | DAI / ARP estático |
+| 🔵 5 | [MAC Flooding](https://github.com/wilfrisf-sudo/ataque_mac_flood) | DoS | CAM overflow → Hub | Port Security |
+| 🟣 6 | [CDP Flood](https://github.com/wilfrisf-sudo/ataque_cdp_flood) | DoS CPU | Control plane congestion | `no cdp enable` |
 
 ---
 
