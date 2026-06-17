@@ -50,12 +50,14 @@ Proyectos enfocados en la manipulación de servicios de resolución de nombres y
 ## 🔧 Stack Técnico
 
 <div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Scapy](https://img.shields.io/badge/Scapy-009688?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=linux&logoColor=white&style=for-the-badge)
 ![GNS3](https://img.shields.io/badge/GNS3-FF6D00?style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco_IOU-1BA0D7?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
+
 </div>
 
 ---
