@@ -71,6 +71,8 @@ Proyectos enfocados en la manipulación de servicios de resolución de nombres y
 ---
 
 <div align="center">
+ 
 **Wilfri Solano Frías** · Matrícula `2024-2364`  
+ 
 🔒 [wilfrisf-sudo](https://github.com/wilfrisf-sudo) · Estudiante de Seguridad Informática · ITLA
 </div>
